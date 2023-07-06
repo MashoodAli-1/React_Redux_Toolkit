@@ -1,12 +1,4 @@
-import logo from "./logo.svg";
-import "./App.css";
-
 function App() {
-  return (
-    <div>
-      <h1>Counter App</h1>
-    </div>
-  );
+  return <h2>Redux Toolkit</h2>;
 }
-
 export default App;
